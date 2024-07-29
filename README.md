@@ -1,12 +1,12 @@
-## longhornriichi.com
+## qcriichi.com
 
-Longhorn Riichi's website built with Jekyll!
+Queen City Riichi's website built with Jekyll!
 
-Custom domain: [longhornriichi.com](https://longhornriichi.com/)
+Custom domain: [qcriichi.com](https://qcriichi.com/)
 
-CloudFlare production hostname: [longhornriichi.pages.dev](https://longhornriichi.pages.dev/)
+CloudFlare production hostname: [qcriichi.pages.dev](https://qcriichi.pages.dev/)
 
-CloudFlare preview hostname: [dev.longhornriichi.pages.dev](http://dev.longhornriichi.pages.dev/)
+CloudFlare preview hostname: [dev.qcriichi.pages.dev](http://dev.qcriichi.pages.dev/)
 
 ## Testing Locally
 Get [all the requirements for Jekyll](https://jekyllrb.com/docs/). Then:

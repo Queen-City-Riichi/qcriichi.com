@@ -1,6 +1,6 @@
 [
   {
-    "title": "No Entry Barrier",
+    "title": "Learn From Zero",
     "description": "No experience? No worries! We are happy to teach, free of charge!",
     "image": {
       "url": "images/features/no_entry_barrier.png",
@@ -18,10 +18,10 @@
     }
   },
   {
-    "title": "Merch and Prizes",
-    "description": "Get exclusive mahjong T-shirts and win prizes with an optional paid membership!",
+    "title": "Improve Skills",
+    "description": "Discuss strategies and track your performance with our digital leaderboard!",
     "image": {
-      "url": "images/features/merch_and_prizes.png",
+      "url": "images/features/improve_skills.png",
       "width": "auto",
       "height": 80
     }

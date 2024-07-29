@@ -11,19 +11,14 @@
       "weight": 2
     },
     {
-      "name": "Leaderboard",
-      "url": "/leaderboard/",
+      "name": "Ruleset",
+      "url": "/ruleset/",
       "weight": 3
     },
     {
-      "name": "Ronhorn Bot",
-      "url": "/ronhorn/",
+      "name": "Leaderboard",
+      "url": "/leaderboard/",
       "weight": 4
-    },
-    {
-      "name": "About Us",
-      "url": "/about/",
-      "weight": 5
     },
     {
       "name": "Join Us",
@@ -37,11 +32,6 @@
       "name": "Events",
       "url": "/events/",
       "weight": 2
-    },
-    {
-      "name": "About Us",
-      "url": "/about/",
-      "weight": 4
     },
     {
       "name": "Join Us",

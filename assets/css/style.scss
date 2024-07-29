@@ -3,10 +3,10 @@
 
 // Colors
 $white: #ffffff; // put `white` first so we don't care if VSCode doesn't display the color picker due to the front matter
-$primary: #0b770b;
+$primary: #c70f2e;
 $secondary: #ffff33;
 $black: #2f2f41;
-$white-offset: #efffef; // used for background against white
+$white-offset: lighten($primary, 55%); // used for background against white
 $steel: #5a5a5c; // used for small text
 
 // Links

@@ -1,18 +1,14 @@
 {
   "Discord": {
-    "url": "https://discord.gg/Ux8hjRBDBU",
-    "image": "/images/socials/discord-mark-white.svg"
-  },
-  "Instagram": {
-    "url": "https://www.instagram.com/longhorn_riichi/",
-    "image": "/images/socials/instagram.svg"
+    "url": "https://discord.gg/R9dr6T2",
+    "icon": "fa-brands fa-discord"
   },
   "Github": {
-    "url": "https://github.com/Longhorn-Riichi",
-    "image": "/images/socials/github.svg"
+    "url": "https://github.com/Queen-City-Riichi",
+    "icon": "fa-brands fa-github"
   },
   "Email": {
-    "url": "mailto:longhornriichi@gmail.com",
-    "image": "/images/socials/email.svg"
+    "url": "mailto:queencityriichi@gmail.com",
+    "icon": "fa-solid fa-envelope"
   }
 }

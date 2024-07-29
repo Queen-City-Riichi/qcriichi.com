@@ -5,13 +5,19 @@ layout: default
 <div class="intro">
   <div class="container">
     <div class="row align-items-center">
+      {% if page.intro_image %}
       <div class="col-12 col-md-5 order-2 order-md-1 intro-container">
         {{ content }}
         <a href="{{ site.data.socials.Discord.url }}" class="button">Join Our Discord</a>
       </div>
-      {% if page.intro_image %}
       <div class="col-12 col-md-7 order-1 order-md-2 intro-image-container">
         <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image }}" />
+      </div>
+      {% else %}
+      <!-- fallback; normally we should have an intro_image -->
+      <div class="col-12 pt-1 pb-1 pt-md-2 pb-md-2 intro-container">
+        {{ content }}
+        <a href="{{ site.data.socials.Discord.url }}" class="button">Join Our Discord</a>
       </div>
       {% endif %}
     </div>
@@ -20,4 +26,3 @@ layout: default
 
 {% include features.html %}
 
-{% include support-us.html %}
