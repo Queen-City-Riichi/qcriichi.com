@@ -3,7 +3,7 @@
     "title": "Learn From Zero",
     "description": "No experience? No worries! We are happy to teach, free of charge!",
     "image": {
-      "url": "images/features/no_entry_barrier.png",
+      "url": "https://res.cloudinary.com/djvg6ubiy/image/upload/v1722231222/Queen%20City%20Riichi/no_entry_barrier_mzox0p.png",
       "width": "auto",
       "height": 80
     }
@@ -12,7 +12,7 @@
     "title": "Make Friends",
     "description": "Enjoy the social element of mahjong and make friends through the clashing of tiles!",
     "image": {
-      "url": "images/features/make_friends.png",
+      "url": "https://res.cloudinary.com/djvg6ubiy/image/upload/v1722231225/Queen%20City%20Riichi/make_friends_zptgfv.png",
       "width": "auto",
       "height": 80
     }
@@ -21,7 +21,7 @@
     "title": "Improve Skills",
     "description": "Discuss strategies and track your performance with our digital leaderboard!",
     "image": {
-      "url": "images/features/improve_skills.png",
+      "url": "https://res.cloudinary.com/djvg6ubiy/image/upload/v1722231223/Queen%20City%20Riichi/improve_skills_ifxbsr.png",
       "width": "auto",
       "height": 80
     }
