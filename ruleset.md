@@ -15,7 +15,7 @@ These are changes that commonly affect gameplay.
 - [Agariyame and tenpaiyame](https://en.wikipedia.org/wiki/Japanese_mahjong#Runaway_victory) are **off**.
 - [Leftover riichi bets](https://riichi.wiki/Scoring_variations#End_game_riichibou) are lost.
 
-### [Uma](https://riichi.wiki/Oka_and_uma):
+### [Uma](https://riichi.wiki/Oka_and_uma)
   - Yonma Hanchan: +16/+6/-6/-16
   - Yonma Tonpuu: +8/+3/-3/-8
   - Sanma Hanchan: +16/0/-16
@@ -32,5 +32,5 @@ If we find that a player has intentionally committed chonbo, we will issue discr
 ## Minor Modifications
 These are very specific changes that rarely affect gameplay.
 
-(None yet!)
+- Renhou is a baiman yaku.
 
