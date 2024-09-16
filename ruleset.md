@@ -23,7 +23,9 @@ These are changes that commonly affect gameplay.
 
 ### Chonbo/Dead Hand
 
-We follow [WRC's definition of chonbo and dead hand](https://www.worldriichi.org/wrc-rules), except with a smaller chonbo penalty: -10 to the player's score.
+We follow [WRC's definition of chonbo and dead hand](https://www.worldriichi.org/wrc-rules), except with the following changes:
+1. chonbo penalty is always -10 to the player's score.
+2. empty *ron* call is dead hand, NOT chonbo.
 
 Chonbo penalty is not enforced on beginners.
 
