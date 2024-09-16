@@ -34,5 +34,5 @@ If we find that a player has intentionally committed chonbo, we will issue discr
 ## Minor Modifications
 These are very specific changes that rarely affect gameplay.
 
-- Renhou is a baiman yaku.
+- Renhou is a 7-han yaku.
 
