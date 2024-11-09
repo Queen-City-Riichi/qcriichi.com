@@ -1,4 +1,5 @@
 {
   "Leaderboard": "https://docs.google.com/spreadsheets/d/1w-uHWXMEQBrsjcwURkU5W_lBeLb8tvD2ljcphV29nNI/edit?usp=sharing",
-  "LeaderboardEmbed": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB--Tg6gy3Dx_JzYtXvrJRAf8YXGdpUraUCoNUALMUjL9rbXjR5JDp_VQ9ELWbIozNqgfjDuefku5n/pubhtml?gid=1085436586&amp;single=true&amp;widget=true&amp;headers=false"
+  "LeaderboardEmbedSrc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB--Tg6gy3Dx_JzYtXvrJRAf8YXGdpUraUCoNUALMUjL9rbXjR5JDp_VQ9ELWbIozNqgfjDuefku5n/pubhtml?gid=1085436586&amp;single=true&amp;widget=true&amp;headers=false",
+  "CalenderEmbedSrc": "https://calendar.google.com/calendar/embed?height=350&wkst=1&ctz=America%2FNew_York&mode=AGENDA&title=Queen%20City%20Riichi%20Events&src=cXVlZW5jaXR5cmlpY2hpQGdtYWlsLmNvbQ&color=%233F51B5"
 }

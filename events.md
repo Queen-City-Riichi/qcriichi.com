@@ -10,6 +10,12 @@ description: Highlighted Events of Queen City Riichi, notably our biweekly meetu
 
 Please join [our Discord server], where we share details and updates about all our events. You can find our [yearly leaderboard here](/leaderboard) and our [ruleset here](/ruleset). We'll introduce our regular events in sections below.
 
+# Calendar
+
+{% include calendar-embed.html %}
+
+
+
 # Biweekly Meetup
 
 We will be teaching *and* playing at our biweekly meetup.
