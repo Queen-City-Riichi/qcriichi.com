@@ -1,5 +1,7 @@
 {
-  "Leaderboard": "https://docs.google.com/spreadsheets/d/1w-uHWXMEQBrsjcwURkU5W_lBeLb8tvD2ljcphV29nNI/edit?usp=sharing",
-  "LeaderboardEmbedSrc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB--Tg6gy3Dx_JzYtXvrJRAf8YXGdpUraUCoNUALMUjL9rbXjR5JDp_VQ9ELWbIozNqgfjDuefku5n/pubhtml?gid=1085436586&amp;single=true&amp;widget=true&amp;headers=false",
+  "ClubLeaderboard": "https://docs.google.com/spreadsheets/d/1w-uHWXMEQBrsjcwURkU5W_lBeLb8tvD2ljcphV29nNI/",
+  "ClubLeaderboardEmbedSrc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB--Tg6gy3Dx_JzYtXvrJRAf8YXGdpUraUCoNUALMUjL9rbXjR5JDp_VQ9ELWbIozNqgfjDuefku5n/pubhtml?gid=1085436586&amp;single=true&amp;widget=true&amp;headers=false",
+  "FriendlyLeaderboard": "https://docs.google.com/spreadsheets/d/1Jj4wLG_fJ1VDXaOj_MVtyDCtlYCJmsBsOhh5X3gHsWM/",
+  "FriendlyLeaderboardEmbedSrc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRSUIUX03JeqCZ2HD7rfytdEpi30L2nRlacQTf-lZuDDyUwmJJfJXj36QU_ODq3rqqVD90eDoGDn1Jd/pubhtml?gid=1085436586&amp;single=true&amp;widget=true&amp;headers=false",
   "CalenderEmbedSrc": "https://calendar.google.com/calendar/embed?height=350&wkst=1&ctz=America%2FNew_York&mode=AGENDA&title=Queen%20City%20Riichi%20Events&src=cXVlZW5jaXR5cmlpY2hpQGdtYWlsLmNvbQ&color=%233F51B5"
 }
