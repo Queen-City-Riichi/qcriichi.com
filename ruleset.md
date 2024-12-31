@@ -1,7 +1,7 @@
 ---
 title: Ruleset
 layout: page
-description: Our standard ruleset is **based on the Mahjong Soul ranked ruleset**, with modifications for fairness and in-person gameplay.
+description: Our standard ruleset is based on the [Mahjong Soul ranked ruleset](https://riichi.wiki/Majsoul#Rules), with modifications for fairness and in-person gameplay.
 ---
 
 # {{ page.title }}
