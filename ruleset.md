@@ -25,7 +25,7 @@ These are changes that commonly affect gameplay.
 
 We follow [WRC's definition of chonbo and dead hand](https://www.worldriichi.org/wrc-rules), except with the following changes:
 1. chonbo penalty is always -10 to the player's score.
-2. an empty win call results in a dead hand, NOT chonbo.
+2. an empty win call without revealing the hand results in a dead hand, NOT chonbo.
 
 Chonbo penalty is not enforced on beginners.
 
