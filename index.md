@@ -5,7 +5,7 @@ intro_image: "https://res.cloudinary.com/djvg6ubiy/image/upload/v1726340882/Quee
 intro_image_hide_on_mobile: false
 ---
 
-# Queen City Riichi
+# <span style="color:#c70f2e">Queen City</span> <span style="color:#002673">Riichi</span>
 {: style="text-align: center"}
 
 {{ page.description }}
