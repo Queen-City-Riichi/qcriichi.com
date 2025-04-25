@@ -21,6 +21,11 @@
       "weight": 4
     },
     {
+      "name": "Membership",
+      "url": "/membership/",
+      "weight": 5
+    },
+    {
       "name": "Join Us",
       "url": "/discord/",
       "open_in_new_tab": true,
@@ -34,10 +39,15 @@
       "weight": 2
     },
     {
+      "name": "Membership",
+      "url": "/membership/",
+      "weight": 5
+    },
+    {
       "name": "Join Us",
       "url": "/discord/",
       "open_in_new_tab": true,
-      "weight": 5
+      "weight": 6
     }
   ]
 }
