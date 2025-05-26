@@ -35,5 +35,5 @@ These are very specific changes that rarely affect gameplay.
 
 - *Renhou* is a 7-han yaku.
 
-## Clarificatinos
+## Clarifications
 - *Nagashi Mangan* payment will void tenpai payments. All other game progression stays unchanged (i.e., riichi sticks stay in the center, honba counter +1, dealership rotates if dealer is not tenpai).
