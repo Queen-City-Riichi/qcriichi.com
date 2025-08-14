@@ -20,8 +20,4 @@ Currently, we meet bi-weekly on Sundays and four-weekly on Saturdays, in Element
 
 {% include calendar-embed.html %}
 
-# Previous Tournaments
-
-We have hosted 3 open riichi tournaments before we rebranded to *Queen City Riichi*. The results of those tournaments are compiled in this [spreadsheet](https://docs.google.com/spreadsheets/d/1-lmgYYDgaDgA-KHfg2bbyO9-dw9cybb5JNJSIIEihgU/edit?usp=sharing).
-
 [our Discord server]: {{ site.data.socials.Discord.url }}
