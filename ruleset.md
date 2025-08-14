@@ -45,7 +45,7 @@ WRC 2025 Rules (without modification) that are different from the QCR ruleset:
 - No red fives (changeable with Mod.2.1)
 - 30k start
 - Uma is 15/5/-5/-15; split in case of tie
-- Atamahane
+- [Atamahane (Head Bump)](https://riichi.wiki/Atamahane)
 
 ### Riichi (page 6)
 - Can riichi with <4 tiles remaining
