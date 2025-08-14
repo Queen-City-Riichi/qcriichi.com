@@ -51,7 +51,7 @@ You may use the [yaku sheets](https://drive.google.com/file/d/1oIcWS12woESHDzopo
 
 Top 4 players will each choose 1 prize from the prize pool, in the order of final placements.
 
-The prize pool includes a QCR Nike Backpack, a free [membership](/membership) voucher, a printed copy of Riichi Book 1, and various mahjong accessories.
+The prize pool includes a QCR Nike Backpack, a free [membership](/membership) voucher, and various mahjong accessories.
 
 ## Miscellaneous Info
 
