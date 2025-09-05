@@ -23,6 +23,23 @@ Queen City Riichi is hosting a local Riichi Mahjong tournament in a relaxed envi
 - **Entry fee**: free for [paid QCR members](/membership). Otherwise, $10.
 - **Registration**: please sign up [here](https://forms.gle/Q3bsvFLhdHtznxq19).
 
+## Results and Seating Info
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROFJX6EiFur1qdIwahO069koZGTvWuZmV_C5prnU1gceG8GJP00i8xzBiSOf9oVWYu02tr6qcOoLPS/pubhtml?widget=true&amp;headers=false" style="width: 100%; height: 380px; margin: 10px 0 "></iframe>
+
+## Schedule
+
+| Start Time | Activity        |
+|------------|-----------------|
+| 12:00 PM   | Registration    |
+| 12:15 PM   | Hanchan 1       |
+| 02:00 PM   | Hanchan 2       |
+| 03:45 PM   | Hanchan 3       |
+| 05:15 PM   | End of Qualifier|
+| 07:30 PM   | Final Hanchan   |
+
+NOTE: the schedule above is tentative, and can change on a need-basis (especially the start time of the final hanchan).
+
 ## Tournament Organizers
 
 **Tournament Host**: Peter G. (will play/judge depending on registration count)
@@ -57,11 +74,6 @@ The prize pool includes a QCR Nike Backpack, a free [membership](/membership) vo
 
 - Refunds for withdrawals, for the $10 entry fee, are only honored for emergencies. We do not refund membership fees. Please reach out for questions.
 - Table and seat assignments will be finalized and shared before the tournament start.
-
-## Real-time results
-
-We will share the real-time tournament results here as they become available.
-
 
 # Previous Tournaments
 
