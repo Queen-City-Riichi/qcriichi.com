@@ -11,7 +11,7 @@ description: Our standard ruleset is based on the [Mahjong Soul ranked ruleset](
 ## Major Modifications
 These are the changes that commonly affect gameplay.
 - [Abortive draws](https://riichi.wiki/Tochuu_ryuukyoku) are **off**.
-- [Kiriage Mangan](https://riichi.wiki/Scoring_table#Kiriage_mangan) is **on**.
+- [Kiriage Mangan](https://riichi.wiki/Japanese_mahjong_scoring_rules#Kiriage_mangan) is **on**.
 - [Agariyame and tenpaiyame](https://en.wikipedia.org/wiki/Japanese_mahjong#Runaway_victory) are **off**.
 - [Leftover riichi bets](https://riichi.wiki/Scoring_variations#End_game_riichibou) are lost.
 - South/West Extension is **off** (game ends upon rotating out of East 4/South 4).
