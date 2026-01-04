@@ -23,7 +23,7 @@ For a game to count toward the **club leaderboard**, the following conditions mu
 1. all players agree **before the game starts** that the game will count toward the leaderboard
 1. all players must understand the *furiten* rule (i.e., players are sufficiently skilled)
 
-The current leaderboard season ends on 12/31/2025.
+<!-- The current leaderboard season ends on 12/31/2026. -->
 
 ## Previous Leaderboards
 
