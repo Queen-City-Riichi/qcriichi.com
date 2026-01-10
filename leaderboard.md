@@ -19,9 +19,10 @@ For detailed games, please see the full spreadsheets here:
 ## Leaderboard Rules
 
 For a game to count toward the **club leaderboard**, the following conditions must be met:
-1. the game is played at a club-hosted in-person meetup (private games and online games should only count toward the friendly leaderboard).
-1. all players agree **before the game starts** that the game will count toward the leaderboard
-1. all players must understand the *furiten* rule (i.e., players are sufficiently skilled)
+1. the game is played at a club-hosted in-person meetup (private games and online games should only count toward the friendly leaderboard);
+1. the game follows [the leaderboard ruleset](/ruleset);
+1. all players agree **before the game starts** that the game will count toward the leaderboard;
+1. all players must understand the *furiten* rule (i.e., players are sufficiently skilled).
 
 <!-- The current leaderboard season ends on 12/31/2026. -->
 
