@@ -32,7 +32,7 @@ Please talk to an officer before paying for the membership. We can be reached on
 * President: Peter G.
 * Secretary: Oliver K.
 * Treasurer: Colton K.
-* Social Media Manager: Zach S.
+* Social Media Manager: (Open Position)
 * Technology Lead: Peter G. and Brian B.
 * Design Lead: Peter G. (Open Position)
 
