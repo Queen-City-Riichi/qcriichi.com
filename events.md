@@ -16,6 +16,17 @@ We will be teaching *and* playing at our regular meetups.
 
 Currently, we meet bi-weekly on Sundays and four-weekly on Saturdays, in Element Eatery (5350 Medpace Way, Cincinnati, OH 45227) from 1-6 PM.
 
+# Tournaments
+
+## Pre-QCR Tournaments
+
+We have hosted 3 open riichi tournaments before we rebranded to *Queen City Riichi*. The results of those tournaments are compiled in this [spreadsheet](https://docs.google.com/spreadsheets/d/1-lmgYYDgaDgA-KHfg2bbyO9-dw9cybb5JNJSIIEihgU/edit?usp=sharing).
+
+## QCR Tournaments
+
+- [QCR Local Tournament]({% link past-tournaments/QCR-Local-Tournament-2025.md %})
+
+
 # Calendar
 
 {% include calendar-embed.html %}
