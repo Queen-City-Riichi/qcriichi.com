@@ -6,7 +6,7 @@ description: Information about the QCR WRL Minor 2026 tournament.
 
 # QCR WRL Minor 2026
 
-Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on June 14th! Participants will play with the unmodified *World Riichi Championship (WRC) 2025* ruleset. Besides [unique physical prizes](#physical-prizes), participants will earn points toward the WRL Finals (details [below](#wrl-points))! While we expect the participants to understand the [WRC 2025 Ruleset], we will provide reference sheets for [a list of WRC 2025 yaku](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/63c82bff2245392703c3a3cb/1674062885858/WRC_Yaku_1_5_3.pdf) and [a WRC 2025 scoring guide](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/6833a2119821c71092d5bff5/1748214290159/WRC+Scoring+Table+2025.pdf).
+Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on June 14th! Participants will play with the unmodified *World Riichi Championship (WRC) 2025* ruleset. Besides [unique physical prizes](#physical-prizes), participants will earn points toward the WRL Finals (details [below](#wrl-points))! While we expect the participants to understand the [WRC 2025 Ruleset], we will provide WRC 2025 reference sheets for [the yaku list](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/63c82bff2245392703c3a3cb/1674062885858/WRC_Yaku_1_5_3.pdf) and [the scoring guide](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/6833a2119821c71092d5bff5/1748214290159/WRC+Scoring+Table+2025.pdf).
 
 - **Format**:
   - 4-hanchan, hand-shuffled.
@@ -19,7 +19,7 @@ Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on
   - Parking is free.
 - **Capacity**: 32 players max.
 - **Entry fee**: $30.
-- **Registration**: Please fill in the [Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA) and join our [Discord Server]({% link discord.md %})
+- **Registration**: Please fill in the [Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA) and join our [Discord Server](/discord)
 
 ## Results and Seating Info
 
@@ -69,11 +69,16 @@ For a comparison between the [WRC 2025 Ruleset] with the QCR leaderboard ruleset
 
 Top 4 players will each choose 1 physical prize from the prize pool, in the order of final placements.
 
-The prize pool is as follows (1 each):
-- [Amos Card Mahjong Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260321180147_iv9ppr.jpg) (includes dice, tenbou, etc.)
-- [QCR Chip Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155524/Queen%20City%20Riichi/IMG20260321175718_vhqjsy.jpg) (54 chips worth 120,000 points total)
-- [Amos Colored Tenbou Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322002159_mnvqui.jpg)
-- [Amos Compass](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322004825_ywzk4o.jpg)
+The prize pool will include at least the following:
+- 1x [Amos Card Mahjong Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260321180147_iv9ppr.jpg) (includes dice, tenbou, etc.)
+- 1x [QCR Chip Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155524/Queen%20City%20Riichi/IMG20260321175718_vhqjsy.jpg) (54 chips worth 120,000 points total)
+- 1x [Gachapon Card Mahjong](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155525/Queen%20City%20Riichi/IMG20260321175941_efiqjf.jpg)
+- 1x [Mahjong Tile Zipper Charm](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155525/Queen%20City%20Riichi/IMG20260321180043_bhjgyx.jpg)
+
+As we pass registration milestones (>15), we will add other prizes to the pool, such as:
+- 1x [Metal Round Wind Indicator](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155521/Queen%20City%20Riichi/IMG20260322005131_e8zpah.jpg)
+- 1x [Amos Colored Tenbou Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322002159_mnvqui.jpg)
+- 1x [Amos Compass](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322004825_ywzk4o.jpg)
 
 ### WRL Points
 
@@ -81,6 +86,13 @@ The prize pool is as follows (1 each):
   - To qualify for the WRL Finals (2026), the players will be scored on their best streak of 16 hanchan across the WRL Major and Minor tournaments of the year.
 - The WRL Finals (2026) is an online tournament in October 2026 and will award one (1) WRC 2028 seat.
 - To learn more about WRL in USA, including upcoming tournaments, please follow their [official website](https://worldriichileague.com/usa-2026-locals/)
+
+## Registration List
+
+| Name       | Status        |
+|------------|---------------|
+| N/A        | N/A           |
+
 
 ## Refund Policy
 

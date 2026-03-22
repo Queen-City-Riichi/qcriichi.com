@@ -24,7 +24,7 @@ We have hosted 3 open riichi tournaments before we rebranded to *Queen City Riic
 
 ## QCR Tournaments
 
-- [QCR Local Tournament]({% link past-tournaments/QCR-Local-Tournament-2025.md %})
+- [QCR Local Tournament 2025](/past-tournaments/QCR-Local-Tournament-2025)
 
 
 # Calendar
