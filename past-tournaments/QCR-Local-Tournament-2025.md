@@ -74,3 +74,7 @@ The prize pool includes a QCR Nike Backpack, a free [membership](/membership) vo
 
 - Refunds for withdrawals, for the $10 entry fee, are only honored for emergencies. We do not refund membership fees. Please reach out for questions.
 - Table and seat assignments will be finalized and shared before the tournament start.
+
+## Tournament Pictures
+
+See [here](https://photos.google.com/share/AF1QipOecvzmW8_ufwMWH8aqy8WtO55Wp3fKDzYbCfP3hVHEz3CHBmbqYE0_bCljPPtnCQ?key=cWx3aXN2VkIyM2dUZVJ2UlFneFZGQl9zcy14dld3)

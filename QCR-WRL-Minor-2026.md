@@ -76,9 +76,10 @@ The prize pool will include at least the following:
 - 1x [Mahjong Tile Zipper Charm](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155525/Queen%20City%20Riichi/IMG20260321180043_bhjgyx.jpg)
 
 As we pass registration milestones (>15), we will add other prizes to the pool, such as:
-- 1x [Metal Round Wind Indicator](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155521/Queen%20City%20Riichi/IMG20260322005131_e8zpah.jpg)
-- 1x [Amos Colored Tenbou Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322002159_mnvqui.jpg)
-- 1x [Amos Compass](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322004825_ywzk4o.jpg)
+- [QCR Shirt](/membership#t-shirts)
+- [Metal Round Wind Indicator](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155521/Queen%20City%20Riichi/IMG20260322005131_e8zpah.jpg)
+- [Amos Colored Tenbou Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322002159_mnvqui.jpg)
+- [Amos Compass](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322004825_ywzk4o.jpg)
 
 ### WRL Points
 
