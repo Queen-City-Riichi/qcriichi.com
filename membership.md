@@ -19,11 +19,19 @@ Each seasonal membership comes with these **exclusive benefits**:
 
 ### Leaderboard Prizes
 
-The details are being finalized. We will give prizes to the top X paid members on the sanma and yonma leaderboard (ranked among paid members only). The prize pool will likely include:
-1. name a custom yaku for the next season (requires approval by the officers)
-1. an "Elder" Discord role for the next season that allows entering leaderboard game scores and participation in the officer chats.
-  - Elders have no officer obligations or voting power.
-1. a physical prize like a riichi sticker set
+We will give prizes to the top 3 paid members on the sanma and yonma leaderboard (ranked among paid members only).
+
+First, each qualified player will receive an award certificate.
+
+Second, each leaderboard will have the following pool of physical prizes. The player in first place gets to pick a prize first, then second place, and finally, third place.
+- 1x [QCR Chip Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155524/Queen%20City%20Riichi/IMG20260321175718_vhqjsy.jpg) (54 chips worth 120,000 points total)
+- 1x [Metal Round Wind Indicator](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155521/Queen%20City%20Riichi/IMG20260322005131_e8zpah.jpg)
+- 1x [Gachapon Card Mahjong](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155525/Queen%20City%20Riichi/IMG20260321175941_efiqjf.jpg)
+- 1x [Mahjong Tile Zipper Charm](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155525/Queen%20City%20Riichi/IMG20260321180043_bhjgyx.jpg)
+- 1x [Amos Colored Tenbou Set](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322002159_mnvqui.jpg)
+- 1x [Amos Compass](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080%20Width%20Fit/v1774155523/Queen%20City%20Riichi/IMG20260322004825_ywzk4o.jpg)
+
+Finally, the first place in each leaderboard will get to name a custom yaku for the next season (pending approval by the Officers).
 
 ## Payment 
 Please talk to an officer before paying for the membership. We can be reached on [our Discord server].

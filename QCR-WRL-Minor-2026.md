@@ -65,6 +65,10 @@ For a comparison between the [WRC 2025 Ruleset] with the QCR leaderboard ruleset
 
 ## Prize Structure
 
+### Certificates
+
+Top 4 players will each receive an award certificate.
+
 ### Physical Prizes
 
 Top 4 players will each choose 1 physical prize from the prize pool, in the order of final placements.
