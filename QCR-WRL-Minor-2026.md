@@ -10,6 +10,9 @@ description: Information about the 2026 QCR World Riichi League Minor tournament
 
 Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on June 14th! Participants will play with the unmodified *World Riichi Championship (WRC) 2025* ruleset. Besides [unique prizes](#physical-prizes), participants will earn points toward the WRL Finals (details [below](#wrl-points))! While we expect the participants to understand the [WRC 2025 Ruleset], we will provide WRC 2025 reference sheets for [the yaku list](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/63c82bff2245392703c3a3cb/1674062885858/WRC_Yaku_1_5_3.pdf) and [the scoring guide](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/6833a2119821c71092d5bff5/1748214290159/WRC+Scoring+Table+2025.pdf).
 
+👉 **[Fill Out Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA)** 👈
+{: style="font-size: 130%; text-align: center;"}
+
 - **Format**:
   - 4-hanchan, hand-shuffled.
   - Each hanchan lasts "75 min + 1 hand" (see [WRC 2025 Ruleset] Section 10.1 *Time limit*)
@@ -21,7 +24,6 @@ Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on
   - Parking is free.
 - **Capacity**: 32 players max.
 - **Entry fee**: $30.
-- **Registration**: Please fill in the [Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA) and join our [Discord Server](/discord)
 
 ## Results and Seating Info
 
@@ -95,6 +97,9 @@ As we pass registration milestones (>15), we will add other prizes to the pool, 
 - To learn more about WRL in USA, including upcoming tournaments, please follow their [official website](https://worldriichileague.com/usa-2026-locals/)
 
 ## Registration List
+
+👉 **[Fill Out Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA)** 👈
+{: style="font-size: 130%; text-align: center;"}
 
 | Name       | Status        |
 |------------|---------------|
