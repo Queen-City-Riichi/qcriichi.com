@@ -23,7 +23,7 @@ Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on
   - Tournament takes place in the hotel's only conference room (near the lobby).
   - Parking is free.
 - **Capacity**: 32 players max.
-- **Entry fee**: $30, paid to the tournament host Peter G. Venmo is preferred: @Peter-Gao (2322).
+- **Entry fee**: $30. Venmo is preferred: `@Peter-Gao (2322)`.
 
 ## Results and Seating Info
 
@@ -101,7 +101,7 @@ As we pass registration milestones (>15), we will add other prizes to the pool, 
 👉 **[Fill Out Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA)** 👈
 {: style="font-size: 130%; text-align: center;"}
 
-Your spot is confirmed after paying the $30 entry fee to Peter G. Venmo is preferred: `@Peter-Gao (2322)`; please reach out for other payment methods.
+Your spot is confirmed upon paying the $30 entry fee. Venmo is preferred: `@Peter-Gao (2322)`; please reach out for other payment methods.
 
 The Registration List here is updated on a regular basis.
 
