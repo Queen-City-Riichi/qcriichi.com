@@ -22,7 +22,7 @@ Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on
 - **Location**: Hampton Inn & Suites Cincinnati-Mason: [5232 Bardes Rd, Mason, OH 45040](https://maps.app.goo.gl/iSAcr6D4hzmq1ZEu6)
   - Tournament takes place in the hotel's only conference room (near the lobby).
   - Parking is free.
-- **Capacity**: 32 players max.
+- **Capacity**: 32 players max. See [current registration list](#registration-list).
 - **Entry fee**: $30. Venmo is preferred: [@Peter-Gao](https://venmo.com/Peter-Gao) (confirmation code: 2322).
 
 ## Results and Seating Info
