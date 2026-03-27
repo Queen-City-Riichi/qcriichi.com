@@ -105,14 +105,15 @@ Your spot is confirmed upon paying the $30 entry fee. Venmo is preferred: `@Pete
 
 The Registration List here is updated on a regular basis.
 
-| Name          | Affiliation        | Status        |
-|---------------|--------------------|---------------|
-| Rina T.       | Queen City Riichi  | Unconfirmed   |
-| Jon H.        | Queen City Riichi  | Unconfirmed   |
-| Michael L.    | Urbana Mahjong Pit | Unconfirmed   |
-| Preston M.    | Knox Riichi        | Unconfirmed   |
-| Adrienne S.   | Queen City Riichi  | Unconfirmed   |
-| Spencer M.    | Queen City Riichi  | Unconfirmed   |
+| Name          | Affiliation             | Status        |
+|---------------|-------------------------|---------------|
+| Rina T.       | Queen City Riichi       | Unconfirmed   |
+| Jon H.        | Queen City Riichi       | Unconfirmed   |
+| Michael L.    | Urbana Mahjong Pit      | Unconfirmed   |
+| Preston M.    | Knox Riichi             | Unconfirmed   |
+| Adrienne S.   | Queen City Riichi       | Unconfirmed   |
+| Spencer M.    | Queen City Riichi       | Unconfirmed   |
+| Nicholas H.   | Riichi Mahjong Columbus | Confirmed     |
 
 
 ## Refund Policy
