@@ -23,7 +23,7 @@ Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on
   - Tournament takes place in the hotel's only conference room (near the lobby).
   - Parking is free.
 - **Capacity**: 32 players max.
-- **Entry fee**: $30. Venmo is preferred: `@Peter-Gao (2322)`.
+- **Entry fee**: $30. Venmo is preferred: [@Peter-Gao](https://venmo.com/Peter-Gao) (confirmation code: 2322).
 
 ## Results and Seating Info
 
@@ -101,20 +101,13 @@ As we pass registration milestones (>15), we will add other prizes to the pool, 
 👉 **[Fill Out Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA)** 👈
 {: style="font-size: 130%; text-align: center;"}
 
-Your spot is confirmed upon paying the $30 entry fee. Venmo is preferred: `@Peter-Gao (2322)`; please reach out for other payment methods.
+We will confirm your spot upon receiving the $30 entry fee. Venmo: [@Peter-Gao](https://venmo.com/Peter-Gao) (confirmation code: 2322). please reach out for other payment methods.
 
-The Registration List here is updated on a regular basis.
-
-| Name          | Affiliation             | Status        |
-|---------------|-------------------------|---------------|
-| Rina T.       | Queen City Riichi       | Unconfirmed   |
-| Jon H.        | Queen City Riichi       | Unconfirmed   |
-| Michael L.    | Urbana Mahjong Pit      | Unconfirmed   |
-| Preston M.    | Knox Riichi             | Unconfirmed   |
-| Adrienne S.   | Queen City Riichi       | Unconfirmed   |
-| Spencer M.    | Queen City Riichi       | Unconfirmed   |
-| Nicholas H.   | Riichi Mahjong Columbus | Confirmed     |
-
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS37V7c0kxXWH6vPqezzl-8Nlixcshzn7MBOfaD5A9n49OIcSaTap51H-g0YOXCV1aAwxVPZMtXLB3-/pubhtml?gid=2038695506&single=true&widget=false&headers=false&chrome=false"
+  width="100%"
+  height="300">
+</iframe>
 
 ## Refund Policy
 
