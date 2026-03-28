@@ -12,7 +12,7 @@ Please join [our Discord server], where we share details and updates about all o
 
 # Regular Meetups
 
-We will be teaching *and* playing at our regular meetups.
+We will be teaching *and* playing at our regular meetups. For those interested in teaching, here's our [teaching method](https://peterish.com/riichi-docs/riichi-teaching-method/).
 
 Currently, we meet bi-weekly on Sundays and four-weekly on Saturdays, in Element Eatery (5350 Medpace Way, Cincinnati, OH 45227) from 1-6 PM.
 
