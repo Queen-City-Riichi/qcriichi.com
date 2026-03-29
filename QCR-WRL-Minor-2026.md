@@ -101,7 +101,7 @@ As we pass registration milestones (>15), we will add other prizes to the pool, 
 👉 **[Fill Out Registration Form](https://forms.gle/xDhEPGoKpP5cANZVA)** 👈
 {: style="font-size: 130%; text-align: center;"}
 
-We will confirm your spot upon receiving the $30 entry fee. Venmo: [@Peter-Gao](https://venmo.com/Peter-Gao) (confirmation code: 2322). please reach out for other payment methods.
+We will confirm your spot upon receiving the $30 entry fee. Venmo: [@Peter-Gao](https://venmo.com/Peter-Gao) (confirmation code: 2322). Please reach out for other payment methods.
 
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS37V7c0kxXWH6vPqezzl-8Nlixcshzn7MBOfaD5A9n49OIcSaTap51H-g0YOXCV1aAwxVPZMtXLB3-/pubhtml?gid=2038695506&single=true&widget=false&headers=false&chrome=false"
