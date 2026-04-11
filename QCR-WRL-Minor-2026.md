@@ -59,7 +59,7 @@ There are many fast food restaurants within a few mintues of walk: Skyline Chili
 - **Tournament Host**: Peter G.
 - **Head Judge**: Brian B.
 - **Judges**: Oliver K.
-- **Subs**: TBA
+- **Subs**: Zach S.
 
 ## Rules
 
