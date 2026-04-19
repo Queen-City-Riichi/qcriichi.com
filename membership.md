@@ -10,16 +10,15 @@ Learning and playing at our regular meetups are **free**. If you enjoy our club 
 
 ## Membership Benefits
 
-Each seasonal membership comes with these **exclusive benefits**:
+Your seasonal membership comes with these **exclusive benefits**:
 
 1. a [club T-shirt](#t-shirts)
 1. a [special club business card](#score-table-card) with a score table on the back
-1. free entry into our seasonal local tournament ($10 for non-paid members)
 1. eligibility for [leaderboard prizes](#leaderboard-prizes)
 
 ### Leaderboard Prizes
 
-We will give prizes to the top 3 paid members on the sanma and yonma leaderboard (ranked among paid members only).
+We will give prizes to the top 3 paid members on the yonma and sanma leaderboard (ranked among paid members who have played enough games -- 6 hanchan for yonma, 5 hanchan for sanma).
 
 First, each qualified player will receive an award certificate.
 
@@ -34,19 +33,27 @@ Second, each leaderboard will have the following pool of physical prizes. The pl
 Finally, the first place in each leaderboard will get to name a custom yaku for the next season (pending approval by the Officers).
 
 ## Payment 
-Please talk to an officer before paying for the membership. We can be reached on [our Discord server].
+Please talk to an officer for payment options (Venmo, cash, etc.). We can be reached on [our Discord server].
 
 ### Officers
 * President: Peter G.
 * Secretary: Oliver K.
-* Treasurer: Colton K.
-* Social Media Manager: (Open Position)
+* Social Media Manager: Zach S.
 * Technology Lead: Peter G. and Brian B.
+* Treasurer: Peter G. (Open Position)
 * Design Lead: Peter G. (Open Position)
 
 ## T-Shirts
 
-### The Best Chiili in Town
+You can choose any of the following designs (provided the appropriate size is still available).
+
+### 2026: Oops! All Green
+
+![Oops All Green Front](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080 Width Fit/v1776564156/Queen%20City%20Riichi/QCR_Shirt_2026_-_Oops_All_Greens_-_Front_h78oqr.png)
+
+![Oops All Green Back](https://res.cloudinary.com/djvg6ubiy/image/upload/t_1080 Width Fit/v1776564156/Queen%20City%20Riichi/QCR_Shirt_2026_-_Oops_All_Greens_-_Back_xvuzih.png)
+
+### 2025 The Best Chiili in Town
 ![Best Chiili Shirt Front](https://res.cloudinary.com/djvg6ubiy/image/upload/c_pad,w_1080/v1745552839/Queen%20City%20Riichi/IMG_20250424_234429_kxoiuk.jpg)
 
 ![Best Chiili Shirt Back](https://res.cloudinary.com/djvg6ubiy/image/upload/c_pad,w_1080/v1745552839/Queen%20City%20Riichi/IMG_20250424_234446_s1ai9o.jpg)
