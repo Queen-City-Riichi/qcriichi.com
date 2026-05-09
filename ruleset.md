@@ -99,6 +99,9 @@ WRC 2025 Rules (without modification) that are different from the base QCR rules
 ### Valid Hand (page 10)
 - "seven non-unique pairs" is not a valid hand
 
+### Making a quad (page 27)
+- new kan dora indicators are always revealed immediately
+
 ## Legacy Rulesets
 - [QCR Leaderboard Ruleset 2025](/ruleset-2025)
 
