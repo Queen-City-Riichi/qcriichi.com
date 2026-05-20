@@ -61,7 +61,14 @@ These are very specific changes that rarely affect gameplay.
 - *Renhou* is a 7-han yaku.
 
 ## Clarifications
-- *Nagashi Mangan* payment will void tenpai payments. All other game progression stays unchanged (i.e., riichi sticks stay in the center, honba counter +1, dealership rotates if dealer is not tenpai).
+- *Nagashi Mangan* is considered a special payment (NOT a win). Specifically:
+  * honba count doesn't affect the payment amount
+  * noten payments are voided
+  * all other game progression stays unchanged (i.e., riichi sticks stay in the center, honba counter +1, dealership rotates if dealer is not tenpai).
+- At exhaustive draw, tenpai declarations follow the WRC rules (as opposed to Mahjong Soul rules). Specifically:
+  * *tenpai* declarations must be in order
+  * one can choose to declare *noten* regardless of the actual *tenpai* status
+
 
 #### Open Riichi Clarification
 
