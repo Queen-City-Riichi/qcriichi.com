@@ -68,6 +68,7 @@ These are very specific changes that rarely affect gameplay.
 - At exhaustive draw, tenpai declarations follow the WRC rules (as opposed to Mahjong Soul rules; see WRC rules section 9.2). Specifically:
   * players must take turns declaring tenpai/noten, starting from the dealer (NOT all at once)
   * one can choose to declare *noten* regardless of the actual *tenpai* status
+    - declaring *noten* for a riichi hand results in *chonbo*
 
 
 #### Open Riichi Clarification
