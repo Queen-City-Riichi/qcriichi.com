@@ -6,7 +6,7 @@ description: Highlighted Events of Queen City Riichi, notably our biweekly meetu
 
 # {{ page.title }}
 
-![8/14/2024 Meetup Picture](https://res.cloudinary.com/djvg6ubiy/image/upload/v1726340950/Queen%20City%20Riichi/Meetup_8_4_2_tables_sc1dwc.jpg)
+![5/24/2026 Meetup Picture](https://res.cloudinary.com/djvg6ubiy/image/upload/v1780957886/Queen%20City%20Riichi/May-24-Meetup-6-tables-event-page-photo_noxbiv.jpg)
 
 Please join [our Discord server], where we share details and updates about all our events. You can find our [seasonal leaderboard here](/leaderboard) and our [ruleset here](/ruleset). We'll introduce our regular events in sections below.
 
