@@ -6,6 +6,12 @@ description: Information about the 2026 QCR World Riichi League Minor tournament
 
 ![](https://res.cloudinary.com/djvg6ubiy/image/upload/v1774482330/Queen%20City%20Riichi/QCR_x_WRL_ysz3c7.png)
 
+# Post-Tournament Updates
+
+- [Tournament pictures](https://drive.google.com/drive/u/3/folders/1jLkj2DBejTzOwVDPkLpTkqvBqZkMY0Ut) taken by Riley, curated by Zach S.
+- [the result spreadsheet](https://docs.google.com/spreadsheets/d/18LDWniskf5NdVU5P6NllIAXVoQvxD_79TCj_y55aAJo/edit?usp=sharing)
+
+
 # QCR WRL Minor 2026
 
 Queen City Riichi is hosting a **World Riichi League (WRL) Minor** tournament on June 14th! Participants will play with the unmodified *World Riichi Championship (WRC) 2025* ruleset. Besides [unique prizes](#physical-prizes), participants will earn points toward the WRL Finals (details [below](#wrl-points))! While we expect the participants to understand the [WRC 2025 Ruleset], we will provide WRC 2025 reference sheets for [the yaku list](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/63c82bff2245392703c3a3cb/1674062885858/WRC_Yaku_1_5_3.pdf) and [the scoring guide](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/6833a2119821c71092d5bff5/1748214290159/WRC+Scoring+Table+2025.pdf).
@@ -58,8 +64,8 @@ There are many fast food restaurants within a few mintues of walk: Skyline Chili
 
 - **Tournament Host**: Peter G.
 - **Head Judge**: Brian B.
-- **Judges**: Oliver K.
-- **Subs**: Zach S.
+- **Riichi Journalist**: Riley
+- **Subs**: Oliver K., Zach S.
 
 ## Rules
 

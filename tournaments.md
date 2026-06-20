@@ -6,10 +6,11 @@ description: Information about the past and present tournaments at QCR.
 
 # Current/Upcoming Tournaments
 
-- [QCR WRL Minor 2026](/QCR-WRL-Minor-2026)
+Tournaments in 2027 TBA!
 
 # Past Tournaments
 
+- [QCR WRL Minor 2026](/QCR-WRL-Minor-2026)
 - [QCR Local Tournament 2025](/past-tournaments/QCR-Local-Tournament-2025)
 
 # Pre-QCR Tournaments
